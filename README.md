@@ -372,6 +372,19 @@ qwen
 > Configure CI/CD pipeline for this project
 ```
 
+## Real-World Examples
+
+### 🤖 WeChat Auto-Reply Bot
+
+Build an intelligent WeChat bot powered by Qwen's language models:
+
+- Automatically respond to user messages with context-aware AI responses
+- Handle group chats and direct messages
+- Maintain conversation history for natural interactions
+- Easy integration with WeChat using Wechaty
+
+**[View Complete Tutorial →](docs/examples/wechat-auto-reply.md)**
+
 ## Commands & Shortcuts
 
 ### Session Commands

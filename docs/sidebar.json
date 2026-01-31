@@ -52,6 +52,13 @@
     ]
   },
   {
+    "label": "Examples",
+    "items": [
+      { "label": "WeChat Auto-Reply Bot", "slug": "docs/examples/wechat-auto-reply" },
+      { "label": "Proxy Script", "slug": "docs/examples/proxy-script" }
+    ]
+  },
+  {
     "label": "Development",
     "items": [
       { "label": "NPM", "slug": "docs/npm" },
