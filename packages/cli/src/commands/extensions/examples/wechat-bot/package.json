@@ -1,0 +1,27 @@
+{
+  "name": "qwen-wechat-bot-example",
+  "version": "1.0.0",
+  "description": "Example WeChat bot integration with Qwen Code",
+  "type": "module",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js",
+    "dev": "node --watch example.js"
+  },
+  "keywords": [
+    "wechat",
+    "bot",
+    "qwen",
+    "ai",
+    "chatbot"
+  ],
+  "author": "Qwen Code Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "wechaty": "^1.20.2",
+    "wechaty-puppet-wechat4u": "^1.14.9"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
